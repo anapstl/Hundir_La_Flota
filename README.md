@@ -62,4 +62,4 @@ Se puede ajustar el tamaño del tablero, la cantidad de barcos editando las vari
 ```bash
 python main.py
 ```
-![alt text](image-1.png)
+![alt text](image.png)

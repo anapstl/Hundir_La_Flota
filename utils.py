@@ -236,6 +236,7 @@ def init_juego():
     # tablero_pc = colocar_barcos(tablero_pc, barcos_pc)
     barcos_pc = generar_barcos(esloras)
     barcos_pc_cpy = barcos_pc.copy()
+    print("Barcos PC:", barcos_pc) if modalidad_juego == 0 else None
     tablero_pc = colocar_barcos(tablero_pc, barcos_pc)
     print(colored("Tablero del PC con barcos cargados:","green"))
     pretty_tablero(tablero_pc)
