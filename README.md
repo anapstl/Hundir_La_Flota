@@ -55,7 +55,7 @@ Se puede ajustar el tamaño del tablero, la cantidad de barcos editando las vari
 
 ```python
  TAMANO_TABLERO = 10 # Cambiar tamaño del tablero   
- ESLORAS_6_BARCOS # Aumentar la lista  para ampliar número de barcos 
+ ESLORAS_6_BARCOS = [2, 2, 2, 3, 3, 4]  # Aumentar la lista  para ampliar número de barcos 
 ```
 
 ## ▶️ Ejemplo de uso

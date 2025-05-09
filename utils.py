@@ -280,7 +280,3 @@ def generar_barcos(esloras: list):
                 break
 
     return barcos
-
-# def colocar_barco(barco, tablero):
-#     for fila, col in barco:
-#         tablero[fila, col] = 'O'
