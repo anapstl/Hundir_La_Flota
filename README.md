@@ -36,7 +36,7 @@ Ejecuta el programa y sigue las indicaciones que aparecerán en pantalla. Introd
 
     El juego termina cuando:
 
-        Hundes todos los barcos del enemigo (Felicidades! 🏆), o
+        Hundes todos los barcos del enemigo (¡Felicidades! 🏆), o
 
         El ordenador hunde todos tus barcos (¡Derrota! 😢).
 
